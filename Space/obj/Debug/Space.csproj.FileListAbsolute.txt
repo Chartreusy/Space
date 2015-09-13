@@ -1,0 +1,8 @@
+c:\users\jaysenle\documents\visual studio 2015\Projects\Space\Space\bin\Debug\Space.exe.config
+C:\Users\jaysenle\Documents\Visual Studio 2015\Projects\Space\Space\bin\Debug\Space.exe
+C:\Users\jaysenle\Documents\Visual Studio 2015\Projects\Space\Space\bin\Debug\Space.pdb
+C:\Users\jaysenle\Documents\Visual Studio 2015\Projects\Space\Space\obj\Debug\Space.csprojResolveAssemblyReference.cache
+C:\Users\jaysenle\Documents\Visual Studio 2015\Projects\Space\Space\obj\Debug\Space.Properties.Resources.resources
+C:\Users\jaysenle\Documents\Visual Studio 2015\Projects\Space\Space\obj\Debug\Space.csproj.GenerateResource.Cache
+C:\Users\jaysenle\Documents\Visual Studio 2015\Projects\Space\Space\obj\Debug\Space.exe
+C:\Users\jaysenle\Documents\Visual Studio 2015\Projects\Space\Space\obj\Debug\Space.pdb
